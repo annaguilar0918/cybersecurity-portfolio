@@ -1,4 +1,4 @@
-# Project 01 — Cybersecurity Home Lab Foundation
+# Project 02 — Cybersecurity Home Lab Foundation
 
 **Project Status:** Phase 1 — Infrastructure Assessment
 
