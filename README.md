@@ -25,21 +25,36 @@ This repository documents my technical learning journey through real implementat
 
 ## Featured Projects
 
-### 01 — Cybersecurity Home Lab Foundation
+### [01 — Corporate Network Infrastructure](01-corporate-network-infrastructure/README.md)
 
-**Status:** Initial inventory completed; documentation in progress.
+**Company:** Aguilar Technologies Inc. (Fictional)  
+**Status:** Phase 1 — Planning and Requirements  
+**Environment:** Cisco Packet Tracer
 
-Building a structured home lab for practicing IT administration, networking, and cybersecurity.
+Designing a secure corporate network for a simulated Canadian company with 50 employees, 25 desktop PCs, and 25 laptops supporting office-based, hybrid, and remote workers.
+
+**Planned implementation:**
+- Corporate network topology and IP addressing
+- Departmental VLANs and inter-VLAN routing
+- DHCP, wireless connectivity, and ACLs
+- Secure remote access design
+- Network testing, troubleshooting, and documentation
+
+---
+
+### [02 — Cybersecurity Home Lab Foundation](02-home-lab-foundation/README.md)
+
+**Status:** Initial infrastructure inventory completed; implementation ongoing.
+
+Building a hands-on home lab to practice IT support, networking, systems administration, and cybersecurity.
 
 **Work completed:**
-- Identified and documented four computers and their hardware capabilities.
-- Inventoried the existing home network and connectivity.
-- Evaluated available computing resources for future virtualization workloads.
-- Established a structured task tracker and documentation workflow.
+- Documented four computers and their hardware capabilities.
+- Inventoried existing network infrastructure and connectivity.
+- Evaluated computing resources for virtualization.
+- Established a structured documentation workflow.
 
-**Skills demonstrated:** Hardware assessment, asset inventory, network fundamentals, PowerShell, Linux CLI, and technical documentation.
-
-Additional implementation evidence and project reports will be published as they are completed.
+**Skills demonstrated:** Hardware assessment, asset inventory, networking fundamentals, Linux CLI, and technical documentation.
 
 ## Upcoming Lab Projects
 
